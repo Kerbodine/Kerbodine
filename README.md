@@ -5,7 +5,7 @@
 
 ### About me🧑‍💻:
 - 🔭 Working on: [FocalTimer](https://github.com/Kerbodine/pp-react-app), [Bauhaus pattern generator](https://bauhaus-pattern.netlify.app/)
-- 🌱 Learning: Vue, Typescript, Electron
+- 🌱 Learning: Next, Typescript, C
 - 📌 Fun fact: *Graphic design is my passion*
 
 ### Languages:
