@@ -53,7 +53,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Kerbodine/Kerbodine/output/snake.svg" alt="Snake animation" />
+![snake svg](https://raw.githubusercontent.com/Kerbodine/Kerbodine/output/snake.svg)
 
 ###
 Profile Readme Generator
